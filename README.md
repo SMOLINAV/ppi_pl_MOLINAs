@@ -24,8 +24,8 @@ Este proyecto tiene como objetivo introducirme en el mundo del freelance como es
 
 ### Contacto
 
-- Correo electrónico: smolinav@unal.edu.co
-- ([Upwork](https://www.upwork.com/workwith/santiagom52))
+- [Correo electronico](smolinav@unal.edu.co)
+- [Upwork](https://www.upwork.com/workwith/santiagom52)
   
 ## Colaboración y Feedback
 
