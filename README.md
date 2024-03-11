@@ -1,24 +1,25 @@
 # Python backend
-
-## Descripción del Proyecto
+## COntenido:
+- [Descripción](###descripcion)
+### Descripción del Proyecto
 
 Este proyecto tiene como objetivo introducirme en el mundo del freelance como estudiante de ingeniería de sistemas. Estaré brindando soluciones y servicios de calidad a clientes potenciales en plataformas como [Upwork](https://www.upwork.com/workwith/santiagom52).
 
-## Objetivos
+### Objetivos
 
 - Explorar oportunidades en el mercado freelance.
 - Adquirir experiencia práctica en diferentes proyectos.
 - Desarrollar y mejorar habilidades técnicas y de comunicación.
 - Construir una red de proyectos y clientes propios.
 
-## Servicios Ofrecidos
+### Servicios Ofrecidos
 
 - Desarrollo de Backend en python.
 - Optimización de rendimiento.
 - Consultoría y asesoramiento en python.
 - Soporte técnico y mantenimiento de sistemas.
 
-## Información Personal y Profesional
+### Información Personal y Profesional
 
 Mi nombre es Santiago Molina Velasquez y soy estudiante de ingeniería de sistemas en la Universidad Nacional de Colombia. Me apasiona el mundo de la tecnología y estoy comprometido a brindar soluciones innovadoras a través del desarrollo de software y la ingeniería de sistemas.
 
