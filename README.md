@@ -7,9 +7,9 @@ Este proyecto tiene como objetivo introducirme en el mundo del freelance como es
 ## Objetivos
 
 - Explorar oportunidades en el mercado freelance.
-- Adquirir experiencia práctica en proyectos reales.
+- Adquirir experiencia práctica en diferentes proyectos.
 - Desarrollar y mejorar habilidades técnicas y de comunicación.
-- Construir una cartera de proyectos y clientes.
+- Construir una red de proyectos y clientes propios.
 
 ## Servicios Ofrecidos
 
