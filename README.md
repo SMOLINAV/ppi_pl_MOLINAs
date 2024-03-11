@@ -2,8 +2,7 @@
 
 ## Descripción del Proyecto
 
-Este proyecto tiene como objetivo introducirme en el mundo del freelance como estudiante de ingeniería de sistemas. Estaré brindando soluciones y servicios de calidad a clientes potenciales en plataformas como UpWork.
-[(Upwork)(https://www.upwork.com/workwith/santiagom52)]
+Este proyecto tiene como objetivo introducirme en el mundo del freelance como estudiante de ingeniería de sistemas. Estaré brindando soluciones y servicios de calidad a clientes potenciales en plataformas como [Upwork](https://www.upwork.com/workwith/santiagom52).
 
 ## Objetivos
 
