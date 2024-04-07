@@ -1,4 +1,4 @@
-# Python backend
+# Desarrollo de Backend y análisis de datos
 ## COntenido:
 - [Descripción](###descripcion)
 - [contacto](###contacto)
@@ -16,6 +16,7 @@ Este proyecto tiene como objetivo introducirme en el mundo del freelance como es
 ### Servicios Ofrecidos
 
 - Desarrollo de Backend en python.
+- Busqueda y análisis de datos en python.
 - Optimización de rendimiento.
 - Consultoría y asesoramiento en python.
 - Soporte técnico y mantenimiento de sistemas.
