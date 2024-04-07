@@ -23,7 +23,7 @@ Este proyecto tiene como objetivo introducirme en el mundo del freelance como es
 
 ### Información Personal y Profesional
 
-Mi nombre es Santiago Molina Velasquez y soy estudiante de ingeniería de sistemas en la Universidad Nacional de Colombia. Me apasiona el mundo de la tecnología y estoy comprometido a brindar soluciones innovadoras a través del desarrollo de software y la ingeniería de sistemas.
+Mi nombre es Santiago Molina y soy estudiante de ingeniería de sistemas en la Universidad Nacional de Colombia. Me apasiona el mundo de la tecnología y estoy comprometido a brindar soluciones innovadoras a través del desarrollo de software y la ingeniería de sistemas.
 
 ### Contacto
 
