@@ -27,7 +27,7 @@ Este proyecto tiene como objetivo introducirme en el mundo del freelance como es
 - Soporte técnico y mantenimiento de sistemas.
 
 ## Mis proyectos:
-
+- [Proyecto análisis de datos de empresas maritimas](https://github.com/SMOLINAV/proyectoanalisisempresasmaritimas/tree/main)
 
 ### Información Personal y Profesional
 
