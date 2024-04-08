@@ -1,7 +1,12 @@
 # Desarrollo de Backend y análisis de datos
-## Contenido:
-- [Descripción](###descripcion)
-- [Contacto](###contacto)
+## Tabla de Contenidos
+
+- [Descripción del Proyecto](#descripción-del-proyecto)
+- [Objetivos](#objetivos)
+- [Servicios Ofrecidos](#servicios-ofrecidos)
+- [Mis Proyectos](#mis-proyectos)
+- [Información Personal y Profesional](#información-personal-y-profesional)
+
 ### Descripción del Proyecto
 
 Este proyecto tiene como objetivo introducirme en el mundo del freelance como estudiante de ingeniería de sistemas. Estaré brindando soluciones y servicios de calidad a clientes potenciales en plataformas como [Upwork](https://www.upwork.com/workwith/santiagom52).
