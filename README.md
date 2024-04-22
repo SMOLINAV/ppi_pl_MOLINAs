@@ -29,6 +29,7 @@ Este proyecto tiene como objetivo introducirme en el mundo del freelance como es
 ## Mis proyectos:
 - [Proyecto análisis de datos de empresas maritimas](https://github.com/SMOLINAV/proyectoanalisisempresasmaritimas/tree/main)
 - [Proyecto papeleria](https://github.com/SMOLINAV/proyectobackendpapeleria)
+- [Proyecto capitales del mundo](https://github.com/SMOLINAV/scraping/tree/main)
 ### Información Personal y Profesional
 
 Mi nombre es Santiago Molina y soy estudiante de ingeniería de sistemas en la Universidad Nacional de Colombia. Me apasiona el mundo de la tecnología y estoy comprometido a brindar soluciones innovadoras a través del desarrollo de software y la ingeniería de sistemas.
