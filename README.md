@@ -47,4 +47,5 @@ Si estás interesado en mi trabajo o tienes alguna consulta, no dudes en ponerte
   <a href="https://github.com/SMOLINAV"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" alt="GitHub" width="50" style="margin-right: 20px;"></a>
   <a href="https://www.reddit.com/user/Smolinav/"><img src="https://cdn.worldvectorlogo.com/logos/reddit-4.svg" alt="Reddit" width="50" style="margin-right: 20px;"></a>
   <a href="https://es.fiverr.com/santiagomoli26?public_mode=true"><img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="Fiverr" width="50" style="margin-right: 20px;"></a>
+  <a href="https://twitter.com/Smolinav2602"><img src="https://cdn.worldvectorlogo.com/logos/x-2.svg" alt="X" width="50" style="margin-right: 20px;"></a>
 <p/>
