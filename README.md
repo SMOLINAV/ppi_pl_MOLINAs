@@ -36,12 +36,15 @@ Este proyecto tiene como objetivo introducirme en el mundo del freelance como es
 
 Mi nombre es Santiago Molina y soy estudiante de ingeniería de sistemas en la Universidad Nacional de Colombia. Me apasiona el mundo de la tecnología y estoy comprometido a brindar soluciones innovadoras a través del desarrollo de software y la ingeniería de sistemas.
 
-### Contacto
+## Contacto
 
-- [Enviar correo](mailto:smolinav@unal.edu.co)
-- [Upwork](https://www.upwork.com/workwith/santiagom52)
-- [Linkedin](https://www.linkedin.com/in/santiago-molina-velasquez-708ba02b9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4vpxgi%2FTRpazaeOSOb1cKg%3D%3D)
-- [Fiverr](https://es.fiverr.com/santiagomoli26?public_mode=true)
-- [Freelancer](https://www.freelancer.com/u/Smolinav26?sb=t)
-- [Stakoverfloow](https://stackoverflow.com/users/24123064/santiago-molina-velasquez)
-- [Reddit](https://www.reddit.com/user/Smolinav/)
+Si estás interesado en mi trabajo o tienes alguna consulta, no dudes en ponerte en contacto conmigo a través de:
+<p>
+  <a href="mailto:smolinav@unal.edu.co"><img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" width="50" style="margin-right: 20px;"></a>
+  <a href="https://www.linkedin.com/in/santiago-molina-velasquez-708ba02b9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4vpxgi%2FTRpazaeOSOb1cKg%3D%3D"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="50" style="margin-right: 20px;"></a>
+  <a href="https://www.upwork.com/workwith/santiagom52"><img src="https://cdn.worldvectorlogo.com/logos/upwork-roundedsquare-1.svg" alt="Upwork" width="50" style="margin-right: 20px;"></a>
+  <a href="https://www.freelancer.com/u/Smolinav26?sb=t"><img src="https://cdn.worldvectorlogo.com/logos/freelancer-1.svg" alt="Freelancer" width="50" style="margin-right: 20px;"></a>  
+  <a href="https://github.com/SMOLINAV"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" alt="GitHub" width="50" style="margin-right: 20px;"></a>
+  <a href="https://www.reddit.com/user/Smolinav/"><img src="https://cdn.worldvectorlogo.com/logos/reddit-4.svg" alt="Reddit" width="50" style="margin-right: 20px;"></a>
+  <a href="https://es.fiverr.com/santiagomoli26?public_mode=true"><img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="Fiverr" width="50" style="margin-right: 20px;"></a>
+<p/>
