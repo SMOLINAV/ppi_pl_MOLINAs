@@ -31,7 +31,7 @@ Este proyecto tiene como objetivo introducirme en el mundo del freelance como es
 - [Proyecto papeleria](https://github.com/SMOLINAV/proyectobackendpapeleria)
 - [Proyecto capitales del mundo](https://github.com/SMOLINAV/scraping/tree/main)
 - [Proyecto IDH](https://github.com/SMOLINAV/proyectoIDH/tree/main)
-- [Proyecyo vuelos](https://github.com/SMOLINAV/airlines_booking/tree/main)
+- [Proyecto vuelos](https://github.com/SMOLINAV/airlines_booking/tree/main)
 ### Información Personal y Profesional
 
 Mi nombre es Santiago Molina y soy estudiante de ingeniería de sistemas en la Universidad Nacional de Colombia. Me apasiona el mundo de la tecnología y estoy comprometido a brindar soluciones innovadoras a través del desarrollo de software y la ingeniería de sistemas.
