@@ -29,7 +29,6 @@ Este proyecto tiene como objetivo introducirme en el mundo del freelance como es
 
 ## Mis proyectos:
 - [Proyecto análisis de datos de empresas maritimas](https://github.com/SMOLINAV/proyectoanalisisempresasmaritimas/tree/main)
-- [Proyecto papeleria](https://github.com/SMOLINAV/proyectobackendpapeleria)
 - [Proyecto capitales del mundo](https://github.com/SMOLINAV/scraping/tree/main)
 - [Proyecto IDH](https://github.com/SMOLINAV/proyectoIDH/tree/main)
 - [Proyecto vuelos](https://github.com/SMOLINAV/airlines_booking/tree/main)
