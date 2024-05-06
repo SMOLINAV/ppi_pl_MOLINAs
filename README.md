@@ -6,6 +6,7 @@
 - [Servicios Ofrecidos](#servicios-ofrecidos)
 - [Mis Proyectos](#mis-proyectos)
 - [Información Personal y Profesional](#información-personal-y-profesional)
+- [Contacto](#contacto)
 
 ### Descripción del Proyecto
 
