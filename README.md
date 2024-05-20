@@ -32,12 +32,12 @@ Este proyecto tiene como objetivo introducirme en el mundo del freelance como es
 - [Proyecto capitales del mundo](https://github.com/SMOLINAV/scraping/tree/main)
 - [Proyecto IDH](https://github.com/SMOLINAV/proyectoIDH/tree/main)
 - [Proyecto vuelos](https://github.com/SMOLINAV/airlines_booking/tree/main)
+- [Proyecto juego busca minas](https://github.com/SMOLINAV/Juegobuscaminas/tree/main)
+  
 ### Información Personal y Profesional
-
 Mi nombre es Santiago Molina y soy estudiante de ingeniería de sistemas en la Universidad Nacional de Colombia. Me apasiona el mundo de la tecnología y estoy comprometido a brindar soluciones innovadoras a través del desarrollo de software y la ingeniería de sistemas.
 
 ## Contacto
-
 Si estás interesado en mi trabajo o tienes alguna consulta, no dudes en ponerte en contacto conmigo a través de:
 <p>
   <a href="mailto:smolinav@unal.edu.co"><img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" width="50" style="margin-right: 20px;"></a>
